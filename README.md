@@ -1,1 +1,1 @@
-# DeepLearningHawaii
+# Deep Learning Hawaii
