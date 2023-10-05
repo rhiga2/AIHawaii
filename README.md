@@ -1,1 +1,1 @@
-# Deep Learning Hawaii
+# AI Hawaii
