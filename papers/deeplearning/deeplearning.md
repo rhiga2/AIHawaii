@@ -31,6 +31,11 @@ Intro review paper for deep learning. Discusses the history of deep learning, th
 
 ## Discussion Points
 - What are the advantages of deep learning over traditional machine learning methods?
+- What are the key reasons behind the recent success of deep learning?
+    - Large datasets
+    - Powerful GPUs and bettet compute 
+- What are filter banks? 
+    - Multiple kernels 
 - Describe backapropagation and stochastic gradient descent
 - Why was backpropagation forsaken by the machine learning community in the 1990s?
 - What are the key ideas behind convulutional neural networks?
@@ -38,7 +43,6 @@ Intro review paper for deep learning. Discusses the history of deep learning, th
 
 
 ## Conclusions
-
 [Provide a concluding statement or overall thoughts on the paper.]
 
 ## Additional Resources
