@@ -1,13 +1,13 @@
 # Title
 
-## Paper Information
+## Papers Information
 
 - **Title**: [Paper Title]
 - **Authors**: [Authors]
 - **Year**: [Year]
 - **Conference/Journal**: [Conference/Journal Name]
 
-## Summary
+## Summaries
 
 [Provide a brief summary of the paper here.]
 
@@ -15,7 +15,7 @@
 
 - [List the key contributions of the paper.]
 
-## Methodology
+## Methodologies
 
 [Explain the methodology or approach used in the paper.]
 
@@ -27,7 +27,7 @@
 
 - [List some discussion points or questions for the reading group.]
 
-## Conclusion
+## Conclusions
 
 [Provide a concluding statement or overall thoughts on the paper.]
 

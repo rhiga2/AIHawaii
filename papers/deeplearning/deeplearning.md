@@ -1,6 +1,6 @@
 # Deep Learning
 
-## Paper Information
+## Papers Information
 
 - **Title**: Deep Learning
 - **Authors**: Yann Lecunn, Yoshua Bengio, Geoffrey Hinton
@@ -8,7 +8,7 @@
 - **Conference/Journal**: Nature
 - **URL**: [Deep Learning](https://www.nature.com/articles/nature14539)
 
-## Summary
+## Summaries
 Intro review paper for deep learning. Discusses the history of deep learning, the current state of the field, and future directions.
 
 ## Key Contributions
@@ -23,7 +23,7 @@ Intro review paper for deep learning. Discusses the history of deep learning, th
     - Krizhevsky et al. win ImageNet competition with deep convolutional neural network (2012)
     - Mikolov et al. introduce word2vec (2013)
 
-## Methodology
+## Methodologies
 - N/A since this is a review paper. 
 
 ## Results
@@ -37,7 +37,7 @@ Intro review paper for deep learning. Discusses the history of deep learning, th
 - What are the key ideas behind recurrent neural networks?
 
 
-## Conclusion
+## Conclusions
 
 [Provide a concluding statement or overall thoughts on the paper.]
 
