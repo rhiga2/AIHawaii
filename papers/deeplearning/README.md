@@ -8,9 +8,6 @@
 - **Conference/Journal**: Nature
 - **URL**: [Deep Learning](https://www.nature.com/articles/nature14539)
 
-## Summaries
-Intro review paper for deep learning. Discusses the history of deep learning, the current state of the field, and future directions.
-
 ## Key Contributions
 - Historical Overview of Deep Learning
     - Rosenblatt introduces perceptron (1958)
@@ -22,12 +19,6 @@ Intro review paper for deep learning. Discusses the history of deep learning, th
     - Hinton et al. introduce deep belief networks (2006)
     - Krizhevsky et al. win ImageNet competition with deep convolutional neural network (2012)
     - Mikolov et al. introduce word2vec (2013)
-
-## Methodologies
-- N/A since this is a review paper. 
-
-## Results
-- N/A since this is a review paper.
 
 ## Discussion Points
 - What are the advantages of deep learning over traditional machine learning methods?
