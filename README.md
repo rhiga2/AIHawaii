@@ -1,1 +1,1 @@
-# AI Hawaii
+# Hawaii AI Collective
